@@ -1,4 +1,3 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=kate-roh&fontSize=70)
 
 <br>
@@ -38,12 +37,10 @@
 <hr>
 
 <h3 align="center">💌  t o d a y  </h3>
-<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoowon0220&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kate-roh&count_private=true&include_all_commits=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kate-roh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-  </p>
 
  </div>
