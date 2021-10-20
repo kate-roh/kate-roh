@@ -2,15 +2,15 @@
 
 <br>
 <h3 align="center">🛠 Tech  Stack 🛠</h3>
-<h3 align="center">Frontend</h3><br>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
   <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
   <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 </p>
-  <br><br>
-<h3 align="center">Backend</h3><br>
+  <br>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
   <img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=Java&logoColor=white"/>
